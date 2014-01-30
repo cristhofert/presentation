@@ -1,0 +1,7 @@
+[Activity]
+name = Presentation
+activity_version = 1
+bundle_id = org.sugarlabs.Presentation
+exec = sugar-activity activity.Activity -s
+icon = icon
+license = GPLv3+
