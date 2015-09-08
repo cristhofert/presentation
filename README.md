@@ -1,4 +1,4 @@
 presentation
 ============
 
-a presentation program sugar
+A presentation program sugar
